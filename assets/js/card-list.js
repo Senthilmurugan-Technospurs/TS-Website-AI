@@ -7,9 +7,27 @@ const cardList = [
     },
     {
         logo: "./assets/img/services/service-2.svg",
-        description: "Build disruptive products with a design-led engineering approach",
-        title: "Product Engineering",
-        collapseList: "Build disruptive products with a design-led engineering approach"
+        description: "Align AI technologies with your business goals through expert-led strategic guidance.",
+        title: "AI consulting & strategy",
+        collapseList: "Align AI technologies with your business goals through expert-led strategic guidance."
+    },
+    {
+        logo: "./assets/img/services/service-2.svg",
+        description: "Develop tailored machine learning models to solve specific business problems.",
+        title: "Custom ML model development",
+        collapseList: "Develop tailored machine learning models to solve specific business problems."
+    },
+    {
+        logo: "./assets/img/services/service-2.svg",
+        description: "Unlock insights from images, video, and text using advanced AI capabilities.",
+        title: "Computer vision & NLP solutions",
+        collapseList: "Unlock insights from images, video, and text using advanced AI capabilities."
+    },
+    {
+        logo: "./assets/img/services/service-2.svg",
+        description: "Automate workflows and processes with intelligent, AI-powered systems.",
+        title: "Next-Gen Automation with AI",
+        collapseList: "Automate workflows and processes with intelligent, AI-powered systems."
     },
     {
         logo: "./assets/img/services/service-5.svg",
@@ -54,12 +72,6 @@ const cardList = [
     //     title: "Creative Services",
     //     collapseList: "Creative and analytics led digital marketing solutions for businesses across the globe."
     // },
-    {
-        logo: "./assets/img/services/service-13.svg",
-        description: "AI-powered analytics and machine learning solutions tailored for business transformation. Drive data-informed decisions to enhance performance and growth. Empowering businesses globally with cutting-edge AI and data-driven strategies.",
-        title: "Artificial Intelligence",
-        collapseList: "AI-powered analytics and machine learning solutions tailored for business transformation. Drive data-informed decisions to enhance performance and growth. Empowering businesses globally with cutting-edge AI and data-driven strategies."
-    },
     {
         logo: "./assets/img/internet-large.svg",
         description: "We deliver efficient and cost-effective IoT solutions for businesses of different sizes and industries.",
