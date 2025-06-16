@@ -943,10 +943,6 @@ h6 {
     padding: 12px !important;
   }
 
-  .expertise-body {
-    /* background: #FFFFFF; */
-  }
-
   .quote-style {
     width: 36px;
   }
@@ -1017,10 +1013,6 @@ h6 {
   color: #ef7717;
 }
 
-.industry-serve .card:hover .card-text {
-  /* color: #000000; */
-}
-
 .industry-serve .card-text {
   font-size: var(--font-size-md);
   font-weight: 400;
@@ -1044,10 +1036,6 @@ h6 {
 
 .industry-serve .card:hover .card-body {
   background: #fff0de;
-}
-
-.industry-serve .active .card-body {
-  /*  background: #FFF0DE; */
 }
 
 @media (max-width: 991px) {
@@ -1483,10 +1471,6 @@ section {
   .our-values .card-body {
     padding: 20px 10px 0px !important;
     border-radius: 4px;
-  }
-
-  .our-values .card:hover {
-    /* background: #FFF0DE !important; */
   }
 }
 
@@ -1938,6 +1922,10 @@ section {
 /*--------------------------------------------------------------
 # Services
 --------------------------------------------------------------*/
+img[src$="services/service-16.svg"] {
+  width: 80px;
+  height: auto;
+}
 .our-service-title {
   margin: 100px 4% 60px;
   overflow: hidden;

@@ -19,7 +19,7 @@ const coreValuesList = [
     logo: "./assets/img/our-values/3.svg",
     title: "Agility",
     description:
-      "We move fast and adapt faster—using intelligent automation and real-time analytics to stay ahead.",
+      "We move fast and adapt faster-using intelligent automation and real-time analytics to stay ahead.",
     collapseList:
       "Responding quickly to change through AI-powered agility, ensuring rapid delivery and innovation.",
   },
@@ -27,7 +27,7 @@ const coreValuesList = [
     logo: "./assets/img/our-values/4.svg",
     title: "Constant Learning",
     description:
-      "Continuous learning fuels our innovation—both for our people and our AI models.",
+      "Continuous learning fuels our innovation-both for our people and our AI models.",
     collapseList:
       "We evolve by learning from every dataset, challenge, and experience to stay future-ready.",
   },
@@ -35,7 +35,7 @@ const coreValuesList = [
     logo: "./assets/img/our-values/5.svg",
     title: "Entrepreneurial Spirit",
     description:
-      "We think like innovators—combining bold ideas with intelligent technologies to create value.",
+      "We think like innovators-combining bold ideas with intelligent technologies to create value.",
     collapseList:
       "Fostering a startup mindset that embraces experimentation, intelligent risk-taking, and AI-driven disruption.",
   },

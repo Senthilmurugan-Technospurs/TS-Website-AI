@@ -6,7 +6,7 @@ const cardList = [
         collapseList: "Help companies traverse the complex Digital Transformation journey leveraging cutting- edge technologies"
     },
     {
-        logo: "./assets/img/services/service-2.svg",
+        logo: "./assets/img/services/service-15.svg",
         description: "Align AI technologies with your business goals through expert-led strategic guidance.",
         title: "AI consulting & strategy",
         collapseList: "Align AI technologies with your business goals through expert-led strategic guidance."
@@ -18,13 +18,13 @@ const cardList = [
         collapseList: "Develop tailored machine learning models to solve specific business problems."
     },
     {
-        logo: "./assets/img/services/service-2.svg",
+        logo: "./assets/img/services/service-14.svg",
         description: "Unlock insights from images, video, and text using advanced AI capabilities.",
         title: "Computer vision & NLP solutions",
         collapseList: "Unlock insights from images, video, and text using advanced AI capabilities."
     },
     {
-        logo: "./assets/img/services/service-2.svg",
+        logo: "./assets/img/services/service-16.svg",
         description: "Automate workflows and processes with intelligent, AI-powered systems.",
         title: "Next-Gen Automation with AI",
         collapseList: "Automate workflows and processes with intelligent, AI-powered systems."
