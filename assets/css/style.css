@@ -1923,8 +1923,7 @@ section {
 # Services
 --------------------------------------------------------------*/
 img[src$="services/service-16.svg"] {
-  width: 80px;
-  height: auto;
+  scale: 2;
 }
 .our-service-title {
   margin: 100px 4% 60px;
