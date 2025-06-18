@@ -7,33 +7,33 @@ const cardList = [
     },
     {
         logo: "./assets/img/services/service-15.svg",
-        description: "Align AI technologies with your business goals through expert-led strategic guidance.",
+        description: "Help businesses align AI technologies with strategic goals through expert guidance, driving innovation, and sustainable growth.",
         title: "AI consulting & strategy",
-        collapseList: "Align AI technologies with your business goals through expert-led strategic guidance."
+        collapseList: "Help businesses align AI technologies with strategic goals through expert guidance, driving innovation, and sustainable growth."
     },
     {
         logo: "./assets/img/services/service-2.svg",
-        description: "Develop tailored machine learning models to solve specific business problems.",
+        description: "Develop custom machine learning models to solve targeted business challenges and drive smarter decisions.",
         title: "Custom ML model development",
-        collapseList: "Develop tailored machine learning models to solve specific business problems."
+        collapseList: "Develop custom machine learning models to solve targeted business challenges and drive smarter decisions."
     },
     {
         logo: "./assets/img/services/service-14.svg",
-        description: "Unlock insights from images, video, and text using advanced AI capabilities.",
+        description: "Leverage advanced AI technologies to analyze images, video, and text, extracting meaningful insights for smarter decisions.",
         title: "Computer vision & NLP solutions",
-        collapseList: "Unlock insights from images, video, and text using advanced AI capabilities."
+        collapseList: "Leverage advanced AI technologies to analyze images, video, and text, extracting meaningful insights for smarter decisions."
     },
     {
         logo: "./assets/img/services/service-16.svg",
-        description: "Automate workflows and processes with intelligent, AI-powered systems.",
+        description: "Streamline operations by automating workflows and processes using intelligent, AI-driven systems that enhance efficiency.",
         title: "Next-Gen Automation with AI",
-        collapseList: "Automate workflows and processes with intelligent, AI-powered systems."
+        collapseList: "Streamline operations by automating workflows and processes using intelligent, AI-driven systems that enhance efficiency."
     },
     {
         logo: "./assets/img/services/service-5.svg",
-        description: "Support and streamline your operations with scalable and well- integrated softwares",
+        description: "Support business operations with scalable, well-integrated software solutions that streamline workflows, enhance productivity.",
         title: "Enterprise Software Development",
-        collapseList: "Support and streamline your operations with scalable and well- integrated softwares"
+        collapseList: "Support business operations with scalable, well-integrated software solutions that streamline workflows, enhance productivity."
     },
     {
         logo: "./assets/img/services/service-4.svg",
@@ -49,16 +49,16 @@ const cardList = [
     },
     {
         logo: "./assets/img/services/service-6.svg",
-        description: "Intuitive and experiential mobility solutions that provide compelling user experience.",
+        description: "Deliver intuitive, experiential mobility solutions designed to enhance engagement, offering a seamless and compelling user experience.",
         title: "Mobility",
-        collapseList: "Intuitive and experiential mobility solutions that provide compelling user experience."
+        collapseList: "Deliver intuitive, experiential mobility solutions designed to enhance engagement, offering a seamless and compelling user experience."
     },
 
     {
         logo: "./assets/img/services/service-7.svg",
-        description: "Personalized, contextual and consistent digital experience across channels.",
+        description: "Deliver personalized and consistent digital experiences across channels for better engagement.",
         title: "Augmented reality / Virtual reality",
-        collapseList: "Personalized, contextual and consistent digital experience across channels."
+        collapseList: "Deliver personalized and consistent digital experiences across channels for better engagement."
     },
     {
         logo: "./assets/img/services/service-8.svg",
