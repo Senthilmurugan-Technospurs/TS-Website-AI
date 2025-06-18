@@ -1176,7 +1176,7 @@ if(matchwidth.matches){
   const isMobile = window.innerWidth <= 768;
 
   const projection = d3.geoMercator()
-    .scale(isMobile ? 80 : 220)
+    .scale(isMobile ? 80 : 240)
     .translate([width / 2, height / 2]);
   const path = d3.geoPath().projection(projection);
 
