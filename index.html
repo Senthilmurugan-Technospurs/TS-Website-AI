@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <title>Technospurs</title>
+  <title>TechnoSpurs</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
   <!-- Favicons -->
@@ -672,7 +672,9 @@
               continents. The map below highlights our client locations and office branches, reflecting our worldwide
               reach and unwavering commitment to delivering cutting-edge, AI-powered solutions.
             </p>
-            <svg class="client-svg"></svg>
+            <div class="map-wrapper">
+              <svg class="map-svg"></svg>
+            </div>
             <div class="tooltip"></div>
           </div>
         </div>
@@ -1168,15 +1170,14 @@ if(matchwidth.matches){
 <script>
   const width = window.innerWidth;
   const height = window.innerHeight;
-  const svg = d3.select(".client-svg");
+  const svg = d3.select(".map-svg");
   const tooltip = d3.select(".tooltip");
 
   const isMobile = window.innerWidth <= 768;
 
   const projection = d3.geoMercator()
-    .scale(isMobile ? 80 : 150)
-    .translate([width / 2, height / 1.5]);
-
+    .scale(isMobile ? 80 : 220)
+    .translate([width / 2, height / 2]);
   const path = d3.geoPath().projection(projection);
 
   const weightageData = [
@@ -1184,7 +1185,8 @@ if(matchwidth.matches){
     { name: 'Germany', lat: 51.1657, lon: 10.4515, weightages: 2 },
     { name: 'Japan', lat: 36.2048, lon: 138.2529, weightages: 1 },
     { name: 'Australia', lat: -25.2744, lon: 133.7751, weightages: 2 },
-    { name: 'USA', lat: 37.0902, lon: -95.7129, weightages: 12 }
+    { name: 'USA', lat: 37.0902, lon: -95.7129, weightages: 12 },
+    { name: 'Singapore', lat: 1.3521, lon: 103.8198, weightages: 1 }
   ];
 
   const officeLocations = [
