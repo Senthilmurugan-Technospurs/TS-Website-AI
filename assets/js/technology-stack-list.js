@@ -40,9 +40,9 @@ const technologyStack = [
     ],
     title: "Backend Engineering",
     description:
-      "We utilize Java and JavaScript frameworks to build robust, scalable server-side applications. Our architecture is designed for high performance and reliability, integrating relational and NoSQL databases. This approach enables efficient handling of complex data sets. It ensures fast response times and dependable backend operations.",
+      "We utilize Java, Python, and JavaScript frameworks to build robust, scalable server-side applications. Our architecture is designed for high performance and reliability, integrating relational and NoSQL databases. This approach enables efficient handling of complex data sets. It ensures fast response times and dependable backend operations.",
     collapseList:
-      "We utilize Java and JavaScript frameworks to build robust, scalable server-side applications. Our architecture is designed for high performance and reliability, integrating relational and NoSQL databases. This approach enables efficient handling of complex data sets. It ensures fast response times and dependable backend operations.",
+      "We utilize Java, Python, and JavaScript frameworks to build robust, scalable server-side applications. Our architecture is designed for high performance and reliability, integrating relational and NoSQL databases. This approach enables efficient handling of complex data sets. It ensures fast response times and dependable backend operations.",
   },
 
   {
