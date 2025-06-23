@@ -679,7 +679,7 @@ h6 {
 }
 
 @media (max-width: 768px) {
-  .client-svg {
+  .map-svg {
     margin-top: -200px;
   }
   .hero-container {
