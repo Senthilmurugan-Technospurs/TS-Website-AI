@@ -160,11 +160,13 @@ const technologyStack = [
   },
   {
     logoList: [
-      "./assets/img/technologies/placeholder.png",
-      "./assets/img/technologies/placeholder.png",
-      "./assets/img/technologies/placeholder.png",
-      "./assets/img/technologies/placeholder.png",
-      "./assets/img/technologies/placeholder.png",
+      "./assets/img/technologies/adops/1.png",
+      "./assets/img/technologies/adops/2.png",
+      "./assets/img/technologies/adops/3.png",
+      "./assets/img/technologies/adops/4.png",
+      "./assets/img/technologies/adops/5.png",
+      "./assets/img/technologies/adops/6.png",
+
     ],
     description:
       "Streamline and optimize your advertising workflows with advanced AI-powered AdOps solutions. We enable smarter, faster, and more efficient ad delivery that maximizes ROI across multiple platforms. Our innovative approach reduces manual overhead and significantly improves campaign accuracy and targeting. Together, we help you achieve better results with less effort and greater scalability.",
