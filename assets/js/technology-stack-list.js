@@ -18,7 +18,6 @@ const technologyStack = [
     logoList: [
       "./assets/img/technologies/frontend/frontend-1.svg",
       "./assets/img/technologies/frontend/frontend-5.svg",
-      "./assets/img/technologies/frontend/frontend-2.svgg",
       "./assets/img/technologies/frontend/frontend-3.svg",
       "./assets/img/technologies/frontend/frontend-4.svg",
       "./assets/img/technologies/frontend/frontend-6.svg",
